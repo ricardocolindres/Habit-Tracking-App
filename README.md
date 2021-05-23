@@ -41,6 +41,8 @@ If you have trouble, please email me at: ricardocolindres@me.com and I would be 
 
 <img width="949" alt="mainmodule" src="https://user-images.githubusercontent.com/83890387/119277538-98c2c580-bbdd-11eb-93ce-82a78cb5ea9b.png">
 
+<img width="759" alt="stats" src="https://user-images.githubusercontent.com/83890387/119277685-4d5ce700-bbde-11eb-8c90-8e58e4b18096.png">
+
 **Log In / Sign Up***
 
 This window allows the user log in into his or her account. New users can create an account by clicking on the “New? Sign Up!” button. Follow instructions displayed to properly create a new user. 
