@@ -10,9 +10,12 @@ Ness has been built with as few dependencies as possible to secure cross platfor
 •	json
 •	re
 •	tkinter
+•	system
 
 ## Getting Started
-Ness can run on MacOS, Windows or Linux. If you plan on running Ness from its standalone version there is no need for installing or updating Python. However, Python 3.7 or greater must be installed if you want to run it from its source code via your preferred terminal console. For more information on installing and updating Python please refer to its official website at https://www.python.org/downloads/ and download the latest version available. Instructions for the installation procedure are available in https://www.python.org/downloads/ as well.
+To run Ness, Python 3.7 or greater must be installed. For more information on installing and updating Python please refer to its official website at https://www.python.org/downloads/ and download the latest version available. Instructions for the installation procedure are available in https://www.python.org/downloads/ as well. Ness should run with no issues for versions of Python 3.7 and greater. However, as of today (April 23, 2021), it has only been tested in Python 3.9 on macOS Big Sur and Windows 10.
+
+Ness can run on MacOS, Windows or Linux. It can easily be compiled into a standalone version for better distribution user libraries like py2app or pyexe.
 
 **_To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:_**
 
@@ -21,54 +24,43 @@ Ness can run on MacOS, Windows or Linux. If you plan on running Ness from its st
 **Password: ness29**
 
 ## Prerequisites
-Please install Python 3.7 or greater only if you are running ness from its source code via terminal. The Tkinter library is part of Python’s standard installation package since Python 3.7
-•	Python 3.7 or greater
+Please install Python 3.7 or greater (preferably Python 3.9). The Tkinter library is part of Python’s standard installation package since Python 3.7, so there is no need to install any external libraries. 
 
-## Installation (Standalone App)
-1.	Download the Ness folder to your desktop
-2.	Open the folder and doble click the Ness App (Standalone Version). 
-3.	Mac - if you wish to permanently install the app:
-Copy and paste the Ness App to your Application folder. 
-Delete the downloaded Ness Folder 
+## Installation 
+1.	Download the Ness Folder
+2.	Open your preferred Command Line Console
+3.	From the Ness Folder, run the main.py file.
 
-## Installation (From Source Code via Terminal)
-1.	Download the Ness Folder to your desktop
-The files can be downloaded to a different directory. 
-Make sure you change to such directory in the following instructions
-2.	Open your preferred Terminal Console (Command 
-3.	Mac Installation - enter the following scripts in your terminal console:
-'''
- $ cd Desktop
- $ cd Ness
- $ cd source_code
- $ Python3 main.py
-'''
+Procedures on how to run the script from the command line may vary from system to system. However, there are many great resources online. If Idle (the default IDE installed with the python standard installation package) is installed, you can just doble click the main.py file contained in the Ness Folder and from the “Run” drop down menu you can hit “Run Module” and it will open the application. Any other IDE that has the python interpreter integrated can be used to run the script.
+If you have trouble, please email me at: ricardocolindres@me.com and I would be happy to share a standalone version for simple installation. 
 
-4.	Windows Installation - enter the following scripts in your terminal console:
-
- $ cd Desktop
- $ cd Ness
- $ cd source_code
- $ Python3 main.py
-Usage
+##Usage
 Log In / Sign Up
 This window allows the user log in into his or her account. New users can create an account by clicking on the “New? Sign Up!” button. Follow instructions displayed to properly create a new user. 
-To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:
+
+**To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:
 Email / Username: ricardocolindres@me.com
-Password: ness29
+Password: ness29***
+
 My Habits Panel
 This panel displays the habits pending for every specific day of the week the user is using the app. Clicking on the “Done” button will register one completion cycle for the habit. Each specific habit needs to be completed as many times in a day as the pre-defined daily goal. Once the user has hit the daily goal for any specific habit, the “Done” button for that habit will change to “Completed” and will be disabled. To visualize the data and insights gathered click the “H STAST!” button.
+
 Manage My Habits Panel
-This panel displays the ALL habits defined by the user. The user can check all parameters for every single active habit. The parameter displayed are: Time, Habit Name, Daily Goal, and Frequency. Each habit listed has a “Delete” button. If clicked, the user will permanently delete all data associated with the selected habit. 
+This panel displays the ALL habits defined by the user. The user can check all parameters for every single active habit. The parameter displayed are: Time, Habit Name, Daily Goal, and Frequency. Each habit listed has a “Delete” button. If clicked, the user will permanently delete all data associated with the selected habit.
+
 Clocked Habits Panel
 This panel is used to track habits within a timed session. The user can user the “Set Habit” button to define new clocked habits. To start a session, click on the “Start Session” button. Ness will push a notification every time the stopwatch hits the targeted frequency for each active habit. To user can then select to either skip the habit or mark it as completed. To end the session, click the “End Session” button. To visualize the data gathered from the last 10 sessions, click the “C STAST!” button.
+
 New Habits Panel
 This panel allows the user to interactively define and create a new habit. The user must enter the habit’s name, its targeted daily frequency (i.e., the number of times the habits should be done on a daily base), the days of the week the user wishes to do the habit, and a general time frame for completion (i.e., morning, afternoon, evening, all time). Once all parameters are defined, the user can proceed to press the “Add” button and the habit will be added to the database.
-Roadmap
+
+##Roadmap
 No known issues. Please report any issue to ricardocolindres@me.com. 
-License
+
+##License
 Distributed under the MIT License. See LICENSE for more information.
-Contact
-Your Name - @richy2993 - ricardocolindres@me.com
+
+##Contact
+Ricardo Josue Colindres - @richy2993 - ricardocolindres@me.com
 Project Link: https://github.com/ricardocolindres/Ness-Habit-Tracker-
 
