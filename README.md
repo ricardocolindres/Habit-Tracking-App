@@ -34,7 +34,7 @@ Please install Python 3.7 or greater (preferably Python 3.9). The Tkinter librar
 Procedures on how to run the script from the command line may vary from system to system. However, there are many great resources online. If Idle (the default IDE installed with the python standard installation package) is installed, you can just doble click the main.py file contained in the Ness Folder and from the “Run” drop down menu you can hit “Run Module” and it will open the application. Any other IDE that has the python interpreter integrated can be used to run the script.
 If you have trouble, please email me at: ricardocolindres@me.com and I would be happy to share a standalone version for simple installation. 
 
-##Usage
+## Usage
 Log In / Sign Up
 This window allows the user log in into his or her account. New users can create an account by clicking on the “New? Sign Up!” button. Follow instructions displayed to properly create a new user. 
 
@@ -42,25 +42,28 @@ This window allows the user log in into his or her account. New users can create
 Email / Username: ricardocolindres@me.com
 Password: ness29***
 
-My Habits Panel
+**My Habits Panel**
+
 This panel displays the habits pending for every specific day of the week the user is using the app. Clicking on the “Done” button will register one completion cycle for the habit. Each specific habit needs to be completed as many times in a day as the pre-defined daily goal. Once the user has hit the daily goal for any specific habit, the “Done” button for that habit will change to “Completed” and will be disabled. To visualize the data and insights gathered click the “H STAST!” button.
 
-Manage My Habits Panel
+**Manage My Habits Panel**
+
 This panel displays the ALL habits defined by the user. The user can check all parameters for every single active habit. The parameter displayed are: Time, Habit Name, Daily Goal, and Frequency. Each habit listed has a “Delete” button. If clicked, the user will permanently delete all data associated with the selected habit.
 
-Clocked Habits Panel
+**Clocked Habits Panel**
+
 This panel is used to track habits within a timed session. The user can user the “Set Habit” button to define new clocked habits. To start a session, click on the “Start Session” button. Ness will push a notification every time the stopwatch hits the targeted frequency for each active habit. To user can then select to either skip the habit or mark it as completed. To end the session, click the “End Session” button. To visualize the data gathered from the last 10 sessions, click the “C STAST!” button.
 
-New Habits Panel
+**New Habits Panel**
 This panel allows the user to interactively define and create a new habit. The user must enter the habit’s name, its targeted daily frequency (i.e., the number of times the habits should be done on a daily base), the days of the week the user wishes to do the habit, and a general time frame for completion (i.e., morning, afternoon, evening, all time). Once all parameters are defined, the user can proceed to press the “Add” button and the habit will be added to the database.
 
-##Roadmap
+## Roadmap
 No known issues. Please report any issue to ricardocolindres@me.com. 
 
-##License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-##Contact
+## Contact
 Ricardo Josue Colindres - @richy2993 - ricardocolindres@me.com
 Project Link: https://github.com/ricardocolindres/Ness-Habit-Tracker-
 
