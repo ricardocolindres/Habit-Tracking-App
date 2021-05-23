@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project was created as a comprehensive solution for people in need of a tool for improving their habits. Ness, the application, has powerful data analysis modules and user-friendly habit management panels that will help the user track and extract valuable information from habits. 
+This project was created as a comprehensive solution for people in need of a tool for improving their habits. Ness, the application, has powerful data analysis modules and user-friendly habit management panels that will help the user track and extract valuable information from habits. Ness is a strong cross-platform application that enables users to track and analyze their habits as a mean to improving their overall life quality.
 
 ## Built With
 Ness has been built with as few dependencies as possible to secure cross platform compatibility. The entire application is programmed on Python 3.9 and only makes use of standard libraries included in the standard Python installation package. The following standard libraries has been utilized:
