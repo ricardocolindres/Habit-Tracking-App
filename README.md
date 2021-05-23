@@ -49,9 +49,11 @@ If you have trouble, please email me at: ricardocolindres@me.com and I would be 
 
 This window allows the user log in into his or her account. New users can create an account by clicking on the “New? Sign Up!” button. Follow instructions displayed to properly create a new user. 
 
-**To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:
-Email / Username: ricardocolindres@me.com
-Password: ness29***
+**To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:**
+
+**Email / Username: ricardocolindres@me.com**
+
+**Password: ness29***
 
 **My Habits Panel**
 
