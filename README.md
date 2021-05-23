@@ -51,9 +51,9 @@ This window allows the user log in into his or her account. New users can create
 
 **To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:**
 
-**Email / Username: ricardocolindres@me.com**
+Email / Username: ricardocolindres@me.com
 
-**Password: ness29***
+Password: ness29
 
 **My Habits Panel**
 
