@@ -624,6 +624,37 @@
      "evening",
      1.0
     ]
+   ],
+   [
+    [
+     "05-23-2021",
+     "Sunday",
+     20
+    ],
+    [
+     "Drink Water",
+     8.0,
+     "all_time",
+     8.0
+    ],
+    [
+     "Meditate",
+     1.0,
+     "morning",
+     1.0
+    ],
+    [
+     "Read",
+     1.0,
+     "evening",
+     1.0
+    ],
+    [
+     "Exercise",
+     1.0,
+     "evening",
+     1.0
+    ]
    ]
   ],
   "user_habits_streak": [
@@ -840,6 +871,10 @@
     ],
     [
      142,
+     1
+    ],
+    [
+     143,
      1
     ]
    ],
@@ -1093,6 +1128,10 @@
     [
      142,
      1
+    ],
+    [
+     143,
+     1
     ]
    ],
    [
@@ -1309,6 +1348,10 @@
     [
      142,
      1
+    ],
+    [
+     143,
+     1
     ]
    ],
    [
@@ -1525,6 +1568,10 @@
     [
      142,
      1
+    ],
+    [
+     143,
+     1
     ]
    ],
    [
@@ -1625,99 +1672,6 @@
     [
      141,
      1
-    ]
-   ]
-  ]
- },
- {
-  "username": "waleskaosorio@me.com",
-  "name": "Waleska",
-  "lastname": "Osorio",
-  "fullname": "Waleska Osorio",
-  "birthday": "1986-9-17",
-  "weight": [
-   130
-  ],
-  "height": 169,
-  "gender": "Female",
-  "work_habits": [
-   [
-    1,
-    "Drink Water"
-   ],
-   [
-    5,
-    "Stand Up"
-   ]
-  ],
-  "work_habits_data": [
-   [
-    "05-14-2021 18:08"
-   ],
-   [
-    "05-14-2021 18:10"
-   ]
-  ],
-  "user_habits": [
-   [
-    "Drink Water",
-    8.0,
-    [
-     "Monday",
-     "Tuesday",
-     "Wednesday",
-     "Thursday",
-     "Friday",
-     "Saturday",
-     "Sunday"
-    ],
-    "all_time"
-   ],
-   [
-    "Exercise",
-    7.0,
-    [
-     "Friday"
-    ],
-    "all_time"
-   ]
-  ],
-  "user_habits_data": [
-   [
-    [
-     "05-14-2021",
-     "Friday",
-     19
-    ],
-    [
-     "Drink Water",
-     8.0,
-     "all_time",
-     5.0
-    ],
-    [
-     "Exercise",
-     7.0,
-     "all_time",
-     2.0
-    ]
-   ]
-  ],
-  "user_habits_streak": [
-   [
-    "Drink Water",
-    7,
-    [
-     134,
-     0
-    ]
-   ],
-   [
-    "Exercise",
-    1,
-    [
-     134,
-     0
     ]
    ]
   ]
