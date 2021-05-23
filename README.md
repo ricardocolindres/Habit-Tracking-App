@@ -23,6 +23,8 @@ Ness can run on MacOS, Windows or Linux. It can easily be compiled into a standa
 
 **Password: ness29**
 
+**IMPORTANT:** The predefined account (ricardocolindres@me.com) comes with data from seven (7) weeks of tracking five (5) habits. However, the application is tightly integrated with time so by the time anyone downloads these files, all streaks associated with all habits will be lost since the application will register that the user has not completed the habits since the day I last marked them completed (the day files were uploaded) until the day the application is downloaded and run by anyone. Other insights can still be observed in the “My Stats” module.
+
 ## Prerequisites
 Please install Python 3.7 or greater (preferably Python 3.9). The Tkinter library is part of Python’s standard installation package since Python 3.7, so there is no need to install any external libraries. 
 
@@ -76,4 +78,6 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 Ricardo Josue Colindres - @richy2993 - ricardocolindres@me.com
 Project Link: https://github.com/ricardocolindres/Ness-Habit-Tracker-
+
+
 
