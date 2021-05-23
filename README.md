@@ -37,7 +37,12 @@ Procedures on how to run the script from the command line may vary from system t
 If you have trouble, please email me at: ricardocolindres@me.com and I would be happy to share a standalone version for simple installation. 
 
 ## Usage
-Log In / Sign Up
+<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/119277475-2e118a00-bbdd-11eb-946c-3fd64110fcf4.png">
+
+<img width="949" alt="mainmodule" src="https://user-images.githubusercontent.com/83890387/119277538-98c2c580-bbdd-11eb-93ce-82a78cb5ea9b.png">
+
+**Log In / Sign Up***
+
 This window allows the user log in into his or her account. New users can create an account by clicking on the “New? Sign Up!” button. Follow instructions displayed to properly create a new user. 
 
 **To access the default account (i.e., an account with preloaded data from over 7 weeks of tracking different habits) use the following credentials:
