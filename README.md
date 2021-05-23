@@ -28,7 +28,7 @@ Ness can run on MacOS, Windows or Linux. It can easily be compiled into a standa
 ## Prerequisites
 Please install Python 3.7 or greater (preferably Python 3.9). The Tkinter library is part of Python’s standard installation package since Python 3.7, so there is no need to install any external libraries. 
 
-The application’s database is locally managed by two simple JSON files contained in the “data” folder so there is no need for establishing connections with online servers. It’s important to mention that all credentials have no encryption or follow any security protocols whatsoever as this application was not built for commercial distribution but rather for academic purposes. However, having said this, it would be easy modified the database module to implement a more robust database and security protocols.
+The application’s database is locally managed by two simple JSON files contained in the “data” folder so there is no need for establishing connections with online servers. It’s important to mention that all credentials have no encryption or follow any security protocols whatsoever as this application was not built for commercial distribution but rather for academic purposes. However, having said this, it would be easy to modified the database module to implement a more robust database and security protocols.
 
 ## Installation 
 1.	Download the Ness Folder
