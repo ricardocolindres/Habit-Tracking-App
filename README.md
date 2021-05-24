@@ -12,11 +12,12 @@ This project was created as a comprehensive solution for people in need of a too
 
 ## Built With
 Ness has been built with as few dependencies as possible to secure cross platform compatibility. The entire application is programmed on Python 3.9 and only makes use of standard libraries included in the standard Python installation package. The following standard libraries has been utilized:
-•	datetime
+
+**•	datetime
 •	json
 •	re
 •	tkinter
-•	system
+•	system**
 
 ## Getting Started
 To run Ness, Python 3.7 or greater must be installed. For more information on installing and updating Python please refer to its official website at https://www.python.org/downloads/ and download the latest version available. Instructions for the installation procedure are available in https://www.python.org/downloads/ as well. Ness should run with no issues for versions of Python 3.7 and greater. However, as of today (May 23, 2021), it has only been tested in Python 3.9 on macOS Big Sur and Windows 10.
