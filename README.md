@@ -19,7 +19,7 @@ Ness has been built with as few dependencies as possible to secure cross platfor
 •	system
 
 ## Getting Started
-To run Ness, Python 3.7 or greater must be installed. For more information on installing and updating Python please refer to its official website at https://www.python.org/downloads/ and download the latest version available. Instructions for the installation procedure are available in https://www.python.org/downloads/ as well. Ness should run with no issues for versions of Python 3.7 and greater. However, as of today (April 23, 2021), it has only been tested in Python 3.9 on macOS Big Sur and Windows 10.
+To run Ness, Python 3.7 or greater must be installed. For more information on installing and updating Python please refer to its official website at https://www.python.org/downloads/ and download the latest version available. Instructions for the installation procedure are available in https://www.python.org/downloads/ as well. Ness should run with no issues for versions of Python 3.7 and greater. However, as of today (May 23, 2021), it has only been tested in Python 3.9 on macOS Big Sur and Windows 10.
 
 Ness can run on MacOS, Windows or Linux. It can easily be compiled into a standalone version for better distribution using  libraries like py2app or pyexe.
 
