@@ -4,6 +4,12 @@
 
 This project was created as a comprehensive solution for people in need of a tool for improving their habits. Ness is a habit tracking app with powerful data analysis modules and user-friendly habit management panels that will help the user track and extract valuable information from habits. Ness is a strong cross-platform application that enables users to track and analyze their habits as a mean to improving their overall life quality.
 
+<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/119277475-2e118a00-bbdd-11eb-946c-3fd64110fcf4.png">
+
+<img width="949" alt="mainmodule" src="https://user-images.githubusercontent.com/83890387/119277538-98c2c580-bbdd-11eb-93ce-82a78cb5ea9b.png">
+
+<img width="759" alt="stats" src="https://user-images.githubusercontent.com/83890387/119277685-4d5ce700-bbde-11eb-8c90-8e58e4b18096.png">
+
 ## Built With
 Ness has been built with as few dependencies as possible to secure cross platform compatibility. The entire application is programmed on Python 3.9 and only makes use of standard libraries included in the standard Python installation package. The following standard libraries has been utilized:
 •	datetime
@@ -39,11 +45,6 @@ Procedures on how to run the script from the command line may vary from system t
 If you have trouble, please email me at: ricardocolindres@me.com and I would be happy to share a standalone version for simple installation. 
 
 ## Usage
-<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/119277475-2e118a00-bbdd-11eb-946c-3fd64110fcf4.png">
-
-<img width="949" alt="mainmodule" src="https://user-images.githubusercontent.com/83890387/119277538-98c2c580-bbdd-11eb-93ce-82a78cb5ea9b.png">
-
-<img width="759" alt="stats" src="https://user-images.githubusercontent.com/83890387/119277685-4d5ce700-bbde-11eb-8c90-8e58e4b18096.png">
 
 **Log In / Sign Up**
 
