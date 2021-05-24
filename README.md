@@ -1,4 +1,4 @@
-# Ness-Habit-Tracker
+# Habit Tracker Application
 
 ## About The Project
 
